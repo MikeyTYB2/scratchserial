@@ -1,9 +1,10 @@
-Advanced FiveM Weapon Serial Scratch Off script 
+#Advanced FiveM Weapon Serial Scratch Off script 
+
+- [Preview](https://discord.gg/3yGPKeNd)
 
 ### Check My Other Scripts!
-[My Discord](https://discord.gg/tJtKPSz9p3)
-[Preview](https://discord.gg/3yGPKeNd)
-[My Tebex](https://mikey.tebex.io/)
+- [My Discord](https://discord.gg/tJtKPSz9p3)
+- [My Tebex](https://mikey.tebex.io/)
 
 ## Features
 - Emote: While scratching the serial an emote will be triggered.
@@ -14,7 +15,7 @@ Advanced FiveM Weapon Serial Scratch Off script
 - Allowed Weapons: Allow only certain weapons to have the ability to have a scratched serial.
 
 
-# Dependencies
+## Dependencies
 - [ox_lib](https://github.com/overextended/ox_lib)
 - [ox_inventory](https://github.com/overextended/ox_inventory)
 
