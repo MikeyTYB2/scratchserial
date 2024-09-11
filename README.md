@@ -1,7 +1,7 @@
 
 # 🔫 Advanced FiveM Weapon Serial Scratch-Off Script
 
-[🎥 Preview Video](https://discord.gg/3yGPKeNd)](https://discord.gg/3yGPKeNd)
+[🎥 Preview Video](https://discord.gg/3yGPKeNd)
 
 ### 📜 Check Out My Other Scripts!
 - 💬 [Join My Discord](https://discord.gg/tJtKPSz9p3)
