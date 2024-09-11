@@ -1,4 +1,4 @@
-#Advanced FiveM Weapon Serial Scratch Off script 
+##Advanced FiveM Weapon Serial Scratch Off script 
 
 - [Preview](https://discord.gg/3yGPKeNd)
 
